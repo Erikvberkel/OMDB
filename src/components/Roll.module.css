@@ -1,0 +1,40 @@
+.caroussel {
+    position: relative;
+}
+.roll {
+    display: flex;
+    align-items: center;
+    position: relative;
+    transition: all 200ms ease-in-out;
+}
+
+.genre h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.5rem;
+    color: #E2E2E2;
+    margin: 1rem 0 0 1rem;
+}
+
+.roll:last-of-type {
+    margin-bottom: 3rem;
+}
+
+.button {
+    position: absolute;
+    top: 0;
+    font-size: 1.5rem;
+    background-color: grey;
+    border: none;
+    height: 100%;
+    width: 2rem;
+    opacity: .5;
+    cursor: pointer;
+}
+
+.buttonRight {
+    right: 0;
+}
+
+.button:hover {
+    opacity: .75;
+}

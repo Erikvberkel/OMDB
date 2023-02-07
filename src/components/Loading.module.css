@@ -1,0 +1,10 @@
+.load {
+    margin: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.load img {
+    height: 5rem;
+}

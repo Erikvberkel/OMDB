@@ -1,0 +1,58 @@
+.header {
+    background-color: black;
+    padding: .5rem;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.header, .buttons {
+    display: flex;
+    align-items: center;
+}
+
+.title, .buttons, .profile {
+    margin: 0 1rem;
+}
+
+.header h1 {
+    color: red;
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.header img {
+    height: 2rem;
+}
+
+.buttons {
+    width: 100%;
+    height: 2rem;
+    justify-content: space-between;
+}
+
+.buttons button {
+    background: none;
+    border: none;
+    font-weight: 700;
+    color: white;
+    opacity: .5;
+    cursor: not-allowed;
+}
+
+.profile {
+    display: flex;
+    color: white;
+}
+
+.profile p {
+    margin: .5rem;
+}
+
+.modal {
+    min-height: 100vh;
+    width: 100vw;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 10;
+    position: fixed;
+}

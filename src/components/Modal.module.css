@@ -1,0 +1,78 @@
+.modal {
+    height: 100vh;
+    width: 100vw;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 10;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.movie {
+    background-color: #141414;
+    color: white;
+    overflow: scroll;
+    overflow-x: hidden;
+    scrollbar-color: #141414;
+    position: fixed;
+    aspect-ratio: 1/1;
+    height: 90vh;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    border-radius: 1rem;
+}
+
+@media (orientation: portrait) {
+    .movie {
+        width: 90vw;
+        height: auto;
+        max-height: 80vh;
+        aspect-ratio: 0;
+    }
+
+}
+
+.title {
+    height: 25vh;
+     font-family: 'Bebas Neue', cursive;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title h1 {
+    width: 50%;
+    font-size: 2rem;
+    text-align: center;
+    text-shadow: 1px 1px red;
+}
+
+.poster {
+    height: 25vh;
+}
+
+.poster img {
+    height: 100%;
+}
+
+.info {
+    font-family: sans-serif;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.meta {
+    display: flex;
+    justify-content: space-around;
+}
+
+.actors {
+    font-style: italic;
+}
+

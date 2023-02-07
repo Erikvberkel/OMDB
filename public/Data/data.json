@@ -1,0 +1,607 @@
+[
+    {
+        "genre": "Action",
+        "titles": [
+            {
+                "Title": "Jurassic World",
+                "Year": "2015",
+                "Runtime": "124 min",
+                "Actors": "Chris Pratt, Bryce Dallas Howard, Ty Simpkins",
+                "Plot": "Twenty-two years after the original Jurassic Park failed, the new park, also known as Jurassic World, is open for business. After years of studying genetics, the scientists on the park genetically engineer a new breed of dinosaur, the Indominus Rex. When everything goes horribly wrong, will our heroes make it off the island?",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNzQ3OTY4NjAtNzM5OS00N2ZhLWJlOWUtYzYwZjNmOWRiMzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+                "Rating": "6.9"
+            },
+            {
+                "Title": "Star Wars: Episode VII - The Force Awakens",
+                "Year": "2015",
+                "Runtime": "138",
+                "Actors": "Daisy Ridley, John Boyega, Oscar Isaac",
+                "Plot": "30 years after the defeat of Darth Vader and the Empire, Rey, a scavenger from the planet Jakku, finds a BB-8 droid that knows the whereabouts of the long lost Luke Skywalker. Rey, as well as a rogue stormtrooper and two smugglers, are thrown into the middle of a battle between the Resistance and the daunting legions of the First Order.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SX300.jpg",
+                "Rating": "7.8"
+            },
+            {
+                "Title": "The Hunger Games: Catching Fire",
+                "Year": "2013",
+                "Runtime": "146",
+                "Actors": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",
+                "Plot": "Twelve months after winning the 74th Hunger Games, Katniss Everdeen and her partner Peeta Mellark must go on what is known as the Victor's Tour, wherein they visit all the districts, but before leaving, Katniss is visited by President Snow who fears that Katniss defied him a year ago during the games when she chose to die with Peeta. With both Katniss and Peeta declared the winners, it is fueling a possible uprising. He tells Katniss that while on tour she better try to make sure that she puts out the flames or else everyone she cares about will be in danger.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_SX300.jpg",
+                "Rating": "7.5"
+            },
+            {
+                "Title": "Independence Day",
+                "Year": "1996",
+                "Runtime": "145 min",
+                "Actors": "Will Smith, Bill Pullman, Jeff Goldblum",
+                "Plot": "On July 2nd, communications systems worldwide are sent into chaos by a strange atmospheric interference. It is soon learned by the military that a number of enormous objects are on a collision course with Earth. At first thought to be meteors, they are later revealed to be gigantic spacecraft, piloted by a mysterious alien species. After attempts to communicate with the aliens go nowhere, David Levinson, an ex-scientist turned cable technician, discovers that the aliens are going to attack major points around the globe in less than a day. On July 3rd, the aliens all but obliterate New York, Los Angeles and Washington, as well as Paris, London, Houston and Moscow. The survivors set out in convoys towards Area 51, a strange government testing ground where it is rumored the military has a captured alien spacecraft of their own. The survivors devise a plan to fight back against the enslaving aliens, and July 4th becomes the day humanity will fight for its freedom. July 4th is their Independence Day...",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMGQwNDNkMmItYWY1Yy00YTZmLWE5OTAtODU0MGZmMzQ1NDdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+                "Rating": "7.0"
+            },
+            {
+                "Title": "Jumanji: Welcome to the Jungle",
+                "Year": "2017",
+                "Runtime": "119 min",
+                "Actors": "Dwayne Johnson, Karen Gillan, Kevin Hart",
+                "Plot": "In a brand-new Jumanji adventure, four high-school kids discover an old video-game console and are drawn into the game's jungle setting, literally becoming the adult avatars they chose. What they discover is that you don't just play Jumanji--you must survive it. To beat the game and return to the real world, they must go on the most dangerous adventure of their lives, discover what Alan Parrish left 20 years ago, and change the way they think about themselves --or they'll be stuck in the game forever, to be played by others without break.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BODQ0NDhjYWItYTMxZi00NTk2LWIzNDEtOWZiYWYxZjc2MTgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+                "Rating": "6.9"
+            },
+            {
+                "Title": "The Lord of the Rings: The Return of the King",
+                "Year": "2003",
+                "Runtime": "201 min",
+                "Actors": "Elijah Wood, Viggo Mortensen, Ian McKellen",
+                "Plot": "The final confrontation between the forces of good and evil fighting for control of the future of Middle-earth. Frodo and Sam reach Mordor in their quest to destroy the One Ring, while Aragorn leads the forces of good against Sauron's evil army at the stone city of Minas Tirith.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+                "Rating": "9.0"
+            },
+            {
+                "Title": "Pirates of the Caribbean: Dead Man's Chest",
+                "Year": "2006",
+                "Runtime": "151 min",
+                "Actors": "Johnny Depp, Orlando Bloom, Keira Knightley",
+                "Plot": "Once again we're plunged into the world of sword fights and 'savvy' pirates. Captain Jack Sparrow is reminded he owes a debt to Davy Jones, who captains the flying Dutchman, a ghostly ship, with a crew from hell. Facing the 'locker' Jack must find the heart of Davy Jones but to save himself he must get the help of quick-witted Will Turner and Elizabeth Swan. If that's not complicated enough, Will and Elizabeth are sentenced to hang, unless Will can get Lord Cutler Beckett Jack's compass. Will is forced to join another crazy adventure with Jack.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_SX300.jpg",
+                "Rating": "7.3"
+            },
+            {
+                "Title": "Furious 7",
+                "Year": "2015",
+                "Runtime": "137 min",
+                "Actors": "Vin Diesel, Paul Walker, Dwayne Johnson",
+                "Plot": "Dominic and his crew thought they'd left the criminal mercenary life behind. They'd defeated international terrorist Owen Shaw and went their separate ways. But now, Shaw's brother, Deckard Shaw, is out killing the crew one by one for revenge. Worse, a Somalian terrorist called Jakarde and a shady government official called 'Mr. Nobody' are both competing to steal a computer terrorism program called 'God's Eye', that can turn any technological device into a weapon. Torretto must reconvene with his team to stop Shaw and retrieve the God's Eye program while caught in a power struggle between the terrorist and the United States government.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxOTA2NDUzOV5BMl5BanBnXkFtZTgwNzY2MTMxMzE@._V1_SX300.jpg",
+                "Rating": "7.1"
+            },
+            {
+                "Title": "Plane",
+                "Year": "2023",
+                "Runtime": "107 min",
+                "Actors": "Gerard Butler, Mike Colter, Yoson An",
+                "Plot": "A pilot finds himself caught in a war zone after he's forced to land his commercial aircraft during a terrible storm.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZDc4MzVkNzYtZTRiZC00ODYwLWJjZmMtMDIyNjQ1M2M1OGM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
+                "Rating": "N/A"
+            },
+            {
+                "Title": "Avatar: The Way of Water",
+                "Year": "2022",
+                "Runtime": "192 min",
+                "Actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
+                "Plot": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_SX300.jpg",
+                "Rating": "7.9"
+            },
+            {
+                "Title": "Bullet Train",
+                "Year": "2022",
+                "Runtime": "127 min",
+                "Actors": "Brad Pitt, Joey King, Aaron Taylor-Johnson",
+                "Plot": "Trained killer Ladybug wants to give up the life but is pulled back in by his handler Maria Beetle in order to collect a briefcase on a bullet train heading from Tokyo to Morioka. On board are fellow assasins Kimura, the Prince, Tangerine, and Lemon. Once on board the five assasins discover that their objectives are all connected.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BOTBhZGJjYjQtODRjOC00MWJhLTk1NTctZDJiM2JkMTY3MGNiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_SX300.jpg",
+                "Rating": "7.3"
+            },
+            {
+                "Title": "Everything Everywhere All at Once",
+                "Year": "2022",
+                "Runtime": "139 min",
+                "Actors": "Michelle Yeoh, Stephanie Hsu, Jamie Lee Curtis",
+                "Plot": "A middle-aged Chinese immigrant is swept up in an insane adventure in which she alone can save existence by exploring other universes connecting with the lives she could have led.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_SX300.jpg",
+                "Rating": "8.0"
+            },
+            {
+                 "Title": "Top Gun: Maverick",
+                "Year": "2022",
+                "Runtime": "130 min",
+                "Actors": "Tom Cruise, Jennifer Connelly, Miles Teller",
+                "Plot": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to ...",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_SX300.jpg",
+                "Rating": "8.4"
+            },
+            {
+                "Title": "John Wick",
+                "Year": "2014",
+                "Runtime": "101 min",
+                "Actors": "Keanu Reeves, Michael Nyqvist, Alfie Allen",
+                "Plot": "With the untimely death of his beloved wife still bitter in his mouth, John Wick, the expert former assassin, receives one final gift from her--a precious keepsake to help John find a new meaning in life now that she is gone. But when the arrogant Russian mob prince, Iosef Tarasov, and his men pay Wick a rather unwelcome visit to rob him of his prized 1969 Mustang and his wife's present, the legendary hitman will be forced to unearth his meticulously concealed identity. Blind with revenge, John will immediately unleash a carefully orchestrated maelstrom of destruction against the sophisticated kingpin, Viggo Tarasov, and his family, who are fully aware of his lethal capacity. Now, only blood can quench the boogeyman's thirst for retribution.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+                "Rating": "7.4"
+            },
+            {
+                "Title": "Jurassic World Dominion",
+                "Year": "2022",
+                "Runtime": "147 min",
+                "Actors": "Chris Pratt, Bryce Dallas Howard, Laura Dern",
+                "Plot": "Four years after the destruction of Isla Nublar, dinosaurs now live--and hunt--alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+                "Rating": "5.7"
+            },
+            {
+                "Title": "Violent Night",
+                "Year": "2022",
+                "Runtime": "112 min",
+                "Actors": "David Harbour, John Leguizamo, Beverly D'Angelo",
+                "Plot": "A team of elite mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage. But the team isn't prepared for a surprise combatant: Santa Claus is on the grounds, and he's about to show why this Nick is no saint.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYzg2NWNhOWItYjA3Yi00MzhhLTg4ZmItYzM3ZTIwN2U0ZGQ5XkEyXkFqcGdeQXVyMzEyMDQzNzY@._V1_SX300.jpg",
+                "Rating": "6.7"
+            },
+            {
+                "Title": "The Expendables 4",
+                "Year": "2023",
+                "Runtime": "N/A",
+                "Actors": "Jason Statham, 50 Cent, Megan Fox",
+                "Plot": "The Expendables will square up against: an arms dealer who commands the might of a massive private army.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNGIzNjU5YTctMDllZi00MGU2LWI5MTYtYzc4ZGFjNzY5ZjYyXkEyXkFqcGdeQXVyODY5NzkyMjA@._V1_SX300.jpg",
+                "Rating": "N/A"
+            },
+            {
+                "Title": "Blade Runner 2049",
+                "Year": "2017",
+                "Runtime": "164 min",
+                "Actors": "Harrison Ford, Ryan Gosling, Ana de Armas",
+                "Plot": "Thirty years after the events of Blade Runner (1982), a new Blade Runner, L.A.P.D. Officer 'K' (Ryan Gosling), unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard (Harrison Ford), a former L.A.P.D. Blade Runner, who has been missing for thirty years.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SX300.jpg",
+                "Rating": "8.0"
+            },
+            {
+                "Title": "Dune",
+                "Year": "2021",
+                "Runtime": "155 min",
+                "Actors": "Timothée Chalamet, Rebecca Ferguson, Zendaya",
+                "Plot": "A mythic and emotionally charged hero's journey, 'Dune' tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+                "Rating": "8.0"
+            },
+            {
+                "Title": "Inception",
+                "Year": "2010",
+                "Runtime": "148 min",
+                "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
+                "Plot": "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now Cobb is being offered a chance at redemption. One last job could give him his life back but only if he can accomplish the impossible, inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea, but to plant one. If they succeed, it could be the perfect crime. But no amount of careful planning or expertise can prepare the team for the dangerous enemy that seems to predict their every move. An enemy that only Cobb could have seen coming.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+                "Rating": "8.8"
+            }
+        ]
+    },
+    {
+        "genre": "Superheroes",
+        "titles": [
+            {
+                "Title": "Captain Marvel",
+                "Year": "2019",
+                "Runtime": "123 min",
+                "Actors": "Brie Larson, Samuel L. Jackson, Ben Mendelsohn",
+                "Plot": "After crashing an experimental aircraft, Air Force pilot Carol Danvers is discovered by the Kree and trained as a member of the elite Starforce Military under the command of her mentor Yon-Rogg. Six years later, after escaping to Earth while under attack by the Skrulls, Danvers begins to discover there's more to her past. With help from S.H.I.E.L.D. agent Nick Fury, they set out to unravel the truth.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_SX300.jpg",
+                "Rating": "6.8"
+            },
+            {
+                "Title": "Spider-Man: No Way Home",
+                "Year": "2021",
+                "Runtime": "148 min",
+                "Actors": "Tom Holland, Zendaya, Benedict Cumberbatch",
+                "Plot": "Peter Parker's secret identity is revealed to the entire world. Desperate for help, Peter turns to Doctor Strange to make the world forget that he is Spider-Man. The spell goes horribly wrong and shatters the multiverse, bringing in monstrous villains that could destroy the world.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_SX300.jpg",
+                "Rating": "8.2"
+            },
+            {
+                "Title": "Avengers: Endgame",
+                "Year": "2019",
+                "Runtime": "181 min",
+                "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo",
+                "Plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos's actions and undo the chaos to the universe, no matter what consequences may be in store, and no matter who they face...",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+                "Rating": "8.4"
+            },
+            {
+                "Title": "Avengers: Infinity War",
+                "Year": "2018",
+                "Runtime": "149 min",
+                "Actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",
+                "Plot": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment, the fate of Earth and existence has never been more uncertain.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
+                "Rating": "8.4"
+            },
+            {
+                "Title": "The Dark Knight",
+                "Year": "2008",
+                "Runtime": "152 min",
+                "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
+                "Plot": "Set within a year after the events of Batman Begins (2005), Batman, Lieutenant James Gordon, and new District Attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City, until a mysterious and sadistic criminal mastermind known only as 'The Joker' appears in Gotham, creating a new wave of chaos. Batman's struggle against The Joker becomes deeply personal, forcing him to 'confront everything he believes' and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent, and Rachel Dawes.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+                "Rating": "9.0"
+            },
+            {
+                "Title": "Wonder Woman",
+                "Year": "2017",
+                "Runtime": "141 min",
+                "Actors": "Gal Gadot, Chris Pine, Robin Wright",
+                "Plot": "Diana, princess of the Amazons, trained to be an unconquerable warrior. Raised on a sheltered island paradise, when a pilot crashes on their shores and tells of a massive conflict raging in the outside world, Diana leaves her home, convinced she can stop the threat. Fighting alongside man in a war to end all wars, Diana will discover her full powers and her true destiny.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzODQzYjQtNTczNC00MzZhLTg1ZWYtZDUxYmQ3ZTY4NzA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+                "Rating": "7.4"
+            },
+            {
+                "Title": "Deadpool",
+                "Year": "2016",
+                "Runtime": "108 min",
+                "Actors": "Ryan Reynolds, Morena Baccarin, T.J. Miller",
+                "Plot": "This is the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+                "Rating": "8.0"
+            },
+            {
+                "Title": "Black Panther",
+                "Year": "2018",
+                "Runtime": "134 min",
+                "Actors": "Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o",
+                "Plot": "After the events of Captain America: Civil War, Prince T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new king. However, T'Challa soon finds that he is challenged for the throne from factions within his own country. When two foes conspire to destroy Wakanda, the hero known as Black Panther must team up with C.I.A. agent Everett K. Ross and members of the Dora Milaje, Wakandan special forces, to prevent Wakanda from being dragged into a world war.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SX300.jpg",
+                "Rating": "7.3"
+            },
+            {
+                "Title": "The Suicide Squad",
+                "Year": "2021",
+                "Runtime": "132 min",
+                "Actors": "Margot Robbie, Idris Elba, John Cena",
+                "Plot": "In exchange for lighter sentences, just like the anti-hero team in Suicide Squad (2016), a new batch of Belle Reve's meta-humans strike a deal with the cold head of Task Force X, Amanda Waller. This time, her ragtag band of super-powered convicts--Harley Quinn, Bloodsport, Peacemaker, King Shark, Polka-Dot Man, and Ratcatcher 2--venture into the peril-laden South American island nation of Corto Maltese to find the Thinker: the evil scientist in charge of the mysterious Project Starfish. But, as the band joins forces with an old leader of the notorious team, humankind is on the verge of extinction. Can the expendable Suicide Squad stop the new menace that could mean the end of the world as we know it?",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMWU4NDQ2NjEtNjhkOS00Y2MwLWJkODItZmJhZGE0MDU1OWM4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+                "Rating": "7.2"
+            },
+            {
+                "Title": "Black Panther: Wakanda Forever",
+                "Year": "2022",
+                "Runtime": "161 min",
+                "Actors": "Letitia Wright, Lupita Nyong'o, Danai Gurira",
+                "Plot": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+                "Rating": "7.3"
+            }, 
+            {
+                "Title": "Black Adam",
+                "Year": "2022",
+                "Runtime": "125 min",
+                "Actors": "Dwayne Johnson, Aldis Hodge, Pierce Brosnan",
+                "Plot": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods-and imprisoned just as quickly-Black Adam (Johnson) is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_SX300.jpg",
+                "Rating": "6.4"
+            },
+            {
+                "Title": "Shang-Chi and the Legend of the Ten Rings",
+                "Year": "2021",
+                "Runtime": "132 min",
+                "Actors": "Simu Liu, Awkwafina, Tony Chiu-Wai Leung",
+                "Plot": "Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+                "Rating": "7.4"
+            },
+            {
+                "Title": "Zack Snyder's Justice League",
+                "Year": "2021",
+                "Runtime": "242 min",
+                "Actors": "Henry Cavill, Ben Affleck, Gal Gadot",
+                "Plot": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions. The task proves more difficult than Bruce imagined, as each of the recruits must face the demons of their own pasts to transcend that which has held them back, allowing them to come together, finally forming an unprecedented league of heroes. Now united, Batman, Wonder Woman, Aquaman, Cyborg and The Flash may be too late to save the planet from Steppenwolf, DeSaad and Darkseid and their dreadful intentions.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+                "Rating": "8.0"
+            },
+            {
+                "Title": "Guardians of the Galaxy",
+                "Year": "2014",
+                "Runtime": "121 min",
+                "Actors": "Chris Pratt, Vin Diesel, Bradley Cooper",
+                "Plot": "After stealing a mysterious orb in the far reaches of outer space, Peter Quill from Earth is now the main target of a manhunt led by the villain known as Ronan the Accuser. To help fight Ronan and his team and save the galaxy from his power, Quill creates a team of space heroes known as the 'Guardians of the Galaxy' to save the galaxy.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZTkwZjU3MTctMGExMi00YjU5LTgwMDMtOWNkZDRlZjQ4NmZhXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg",
+                "Rating": "8.0"
+            },
+            {
+                "Title": "Spider-Man: Into the Spider-Verse",
+                "Year": "2018",
+                "Runtime": "117 min",
+                "Actors": "Shameik Moore, Jake Johnson, Hailee Steinfeld",
+                "Plot": "Phil Lord and Christopher Miller, the creative minds behind The Lego Movie and 21 Jump Street, bring their unique talents to a fresh vision of a different Spider-Man Universe, with a groundbreaking visual style that's the first of its kind. 'Spider-Man(TM): Into the Spider-Verse' introduces Brooklyn teen Miles Morales (Shameik Moore), and the limitless possibilities of the Spider-Verse, where more than one can wear the mask.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg",
+                "Rating": "8.4"
+            },
+            {
+                "Title": "Black Widow",
+                "Year": "2021",
+                "Runtime": "134 min",
+                "Actors": "Scarlett Johansson, Florence Pugh, David Harbour",
+                "Plot": "In Marvel Studios' action-packed spy thriller 'Black Widow', Natasha Romanoff aka Black Widow confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+                "Rating": "6.7"
+            },
+            {
+                "Title": "Thor: Love and Thunder",
+                "Year": "2022",
+                "Runtime": "118 min",
+                "Actors": "Chris Hemsworth, Natalie Portman, Christian Bale",
+                "Plot": "Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+                "Rating": "6.3"
+            },
+            {
+                "Title": "Ant-Man",
+                "Year": "2015",
+                "Runtime": "117 min",
+                "Actors": "Paul Rudd, Michael Douglas, Corey Stoll",
+                "Plot": "Armed with the astonishing ability to shrink in scale but increase in strength, con-man Scott Lang must embrace his inner-hero and help his mentor, Dr. Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_SX300.jpg",
+                "Rating": "7.3"
+            },
+            {
+                "Title": "Kick-Ass",
+                "Year": "2010",
+                "Runtime": "117 min",
+                "Actors": "Aaron Taylor-Johnson, Nicolas Cage, Chloë Grace Moretz",
+                "Plot": "Dave Lizewski is an unnoticed high school student and comic book fan with a few friends and who lives alone with his father. His life is not very difficult and his personal trials not that overwhelming. However, one day he makes the simple decision to become a super-hero even though he has no powers or training.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMTMzNzEzMDYxM15BMl5BanBnXkFtZTcwMTc0NTMxMw@@._V1_SX300.jpg",
+                "Rating": "7.6"
+            },
+            {
+                "Title": "Doctor Strange in the Multiverse of Madness",
+                "Year": "2022",
+                "Runtime": "126 min",
+                "Actors": "Benedict Cumberbatch, Elizabeth Olsen, Chiwetel Ejiofor",
+                "Plot": "After the events of Avengers: Endgame, Dr. Stephen Strange continues his research on the Time Stone. But an old friend turned enemy seeks to destroy every sorcerer on Earth, messing with Strange's plan, causing him to unleash an unspeakable evil",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX300.jpg",
+                "Rating": "6.9"
+            }
+        ]
+    },
+    {
+        "genre": "Drama",
+        "titles": [
+            {
+                "Title": "Forrest Gump",
+                "Year": "1994",
+                "Runtime": "142 min",
+                "Actors": "Tom Hanks, Robin Wright, Gary Sinise",
+                "Plot": "Forrest Gump is a simple man with a low I.Q. but good intentions. He is running through childhood with his best and only friend Jenny. His 'mama' teaches him the ways of life and leaves him to choose his destiny. Forrest joins the army for service in Vietnam, finding new friends called Dan and Bubba, he wins medals, creates a famous shrimp fishing fleet, inspires people to jog, starts a ping-pong craze, creates the smiley, writes bumper stickers and songs, donates to people and meets the president several times. However, this is all irrelevant to Forrest who can only think of his childhood sweetheart Jenny Curran, who has messed up her life. Although in the end all he wants to prove is that anyone can love anyone.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+                "Rating": "8.8"
+            },
+            {
+                "Title": "The Shawshank Redemption",
+                "Year": "1994",
+                "Runtime": "142 min",
+                "Actors": "Tim Robbins, Morgan Freeman, Bob Gunton",
+                "Plot": "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+                "Rating": "9.3"
+            },
+            {
+                "Title": "Inglourious Basterds",
+                "Year": "2009",
+                "Runtime": "153 min",
+                "Actors": "Brad Pitt, Diane Kruger, Eli Roth",
+                "Plot": "In German-occupied France, young Jewish refugee Shosanna Dreyfus witnesses the slaughter of her family by Colonel Hans Landa. Narrowly escaping with her life, she plots her revenge several years later when German war hero Fredrick Zoller takes a rapid interest in her and arranges an illustrious movie premiere at the theater she now runs. With the promise of every major Nazi officer in attendance, the event catches the attention of the 'Basterds', a group of Jewish-American guerrilla soldiers led by the ruthless Lt. Aldo Raine. As the relentless executioners advance and the conspiring young girl's plans are set in motion, their paths will cross for a fateful evening that will shake the very annals of history.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+                "Rating": "8.3"
+            },
+            {
+                "Title": "The Godfather",
+                "Year": "1972",
+                "Runtime": "175 min",
+                "Actors": "Marlon Brando, Al Pacino, James Caan",
+                "Plot": "The Godfather 'Don' Vito Corleone is the head of the Corleone mafia family in New York. He is at the event of his daughter's wedding. Michael, Vito's youngest son and a decorated WW II Marine is also present at the wedding. Michael seems to be uninterested in being a part of the family business. Vito is a powerful man, and is kind to all those who give him respect but is ruthless against those who do not. But when a powerful and treacherous rival wants to sell drugs and needs the Don's influence for the same, Vito refuses to do it. What follows is a clash between Vito's fading old values and the new ways which may cause Michael to do the thing he was most reluctant in doing and wage a mob war against all the other mafia families which could tear the Corleone family apart.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+                "Rating": "9.2"
+            },
+            {
+                "Title": "Amsterdam",
+                "Year": "2022",
+                "Runtime": "134 min",
+                "Actors": "Christian Bale, Margot Robbie, John David Washington",
+                "Plot": "In the 1930s, three friends witness a murder, are framed for it, and uncover one of the most outrageous plots in American history.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNDQwNzE0ZTItYmZjMC00NjI3LWFlNzctNTExZDY2NWE0Zjc0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_SX300.jpg",
+                "Rating": "6.1"
+            },
+            {
+                "Title": "Once Upon a Time in Hollywood",
+                "Year": "2019",
+                "Runtime": "161 min",
+                "Actors": "Leonardo DiCaprio, Brad Pitt, Margot Robbie",
+                "Plot": "Quentin Tarantino's Once Upon a Time... in Hollywood visits 1969 Los Angeles, where everything is changing, as TV star Rick Dalton (Leonardo DiCaprio) and his longtime stunt double Cliff Booth (Brad Pitt) make their way around an industry they hardly recognize anymore. The ninth film from the writer-director features a large ensemble cast and multiple storylines in a tribute to the final moments of Hollywood's golden age.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SX300.jpg",
+                "Rating": "7.6"
+            },
+            {
+                "Title": "Transfusion",
+                "Year": "2023",
+                "Runtime": "106 min",
+                "Actors": "Sam Worthington, Phoebe Tonkin, Susie Porter",
+                "Plot": "A former Special Forces operative thrust into the criminal underworld to keep his only son from being taken from him.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYmM2OTgzMjAtNTYxOS00ZjdlLWIzZmQtZDAwNmNiZGQ5NTQ4XkEyXkFqcGdeQXVyNjU0NTkwMDQ@._V1_SX300.jpg",
+                "Rating": "N/A"
+            },
+            {
+                "Title": "Causeway",
+                "Year": "2022",
+                "Runtime": "92 min",
+                "Actors": "Jennifer Lawrence, Brian Tyree Henry, Linda Emond",
+                "Plot": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BMmYwOThkNzItYjNmNS00N2I1LTgzNjgtMTA5NGIzNDc1ZWI1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg",
+                "Rating": "6.5"
+            },
+            {
+                "Title": "Interstellar",
+                "Year": "2014",
+                "Runtime": "169 min",
+                "Actors": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+                "Plot": "Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+                "Rating": "8.6"
+            },
+            {
+                "Title": "Black Bird",
+                "Year": "2022",
+                "Runtime": "N/A",
+                "Actors": "Taron Egerton, Paul Walter Hauser, Greg Kinnear",
+                "Plot": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZjI3NjcyN2UtMGNhZC00YTYxLWJmOTQtNWI1ZGJmNjA4ZjY5XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX300.jpg",
+                "Rating": "8.1"
+            },
+            {
+                "Title": "Kaleidoscope",
+                "Year": "2023",
+                "Runtime": "N/A",
+                "Actors": "Giancarlo Esposito, Rufus Sewell, Paz Vega",
+                "Plot": "Spanning 24 years, Jigsaw centers around the largest heist ever attempted, and the vengeance, scheming, loyalties, and betrayals that surround it. It's loosely inspired by the real-life story where seventy billion dollars in bonds went missing in downtown Manhattan during Hurricane Sandy.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZGYzMTg2MzktOTc3Yi00ZThlLTkxN2MtY2YxNGE1MWNiYmMxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg",
+                "Rating": "6.7"
+            },
+            {
+                "Title": "The Whale",
+                "Year": "2022",
+                "Runtime": "117 min",
+                "Actors": "Brendan Fraser, Sadie Sink, Ty Simpkins",
+                "Plot": "A reclusive English teacher attempts to reconnect with his estranged teenage daughter.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BZDQ4Njg4YTctNGZkYi00NWU1LWI4OTYtNmNjOWMyMjI1NWYzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_SX300.jpg",
+                "Rating": "8.1"
+            },
+            {
+                "Title": "Schindler's List",
+                "Year": "1993",
+                "Runtime": "195 min",
+                "Actors": "Liam Neeson, Ralph Fiennes, Ben Kingsley",
+                "Plot": "Oskar Schindler is a vain and greedy German businessman who becomes an unlikely humanitarian amid the barbaric German Nazi reign when he feels compelled to turn his factory into a refuge for Jews. Based on the true story of Oskar Schindler who managed to save about 1100 Jews from being gassed at the Auschwitz concentration camp, it is a testament to the good in all of us.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+                "Rating": "9.0"
+            },
+            {
+                "Title": "Glass Onion",
+                "Year": "2022",
+                "Runtime": "139 min",
+                "Actors": "Daniel Craig, Edward Norton, Kate Hudson",
+                "Plot": "Famed Southern detective Benoit Blanc travels to Greece for his latest case.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYmZlZDZkZjYtNzE5Mi00ODFhLTk2OTgtZWVmODBiZTI4NGFiXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_SX300.jpg",
+                "Rating": "7.2"
+            },
+            {
+                "Title": "A Man Called Otto",
+                "Year": "2022",
+                "Runtime": "126 min",
+                "Actors": "Tom Hanks, John Higgins, Tony Bingham",
+                "Plot": "Otto is a grump who's given up on life following the loss of his wife and wants to end it all. When a young family moves in nearby, he meets his match in quick-witted Marisol, leading to a friendship that will turn his world around.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNzg3OTEzMTgtYWU0OC00YTI0LWIxOTAtNmRkNTc0Nzg2YWU1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg",
+                "Rating": "7.5"
+            },
+            {
+                "Title": "The Wandering Earth 2",
+                "Year": "2023",
+                "Runtime": "N/A",
+                "Actors": "Andy Lau, Jing Wu, Zina Blahusova",
+                "Plot": "Humans built huge engines on the surface of the earth to find a new home. But the road to the universe is perilous. In order to save earth, young people once again have to step forward to start a race against time for life and death.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BN2IzY2E2MTQtNTMxMy00YTJjLTkzYTEtYzAyM2VlYjFjZDQzXkEyXkFqcGdeQXVyMTI5ODA1OTU0._V1_SX300.jpg",
+                "Rating": "N/A"
+            },
+            {
+                "Title": "Women Talking",
+                "Year": "2022",
+                "Runtime": "104 min",
+                "Actors": "Rooney Mara, Claire Foy, Jessie Buckley",
+                "Plot": "Do nothing. Stay and fight. Or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYTZmMmQ4OWYtM2JmNC00NzY0LWJhODUtOTRmMWMyOTU4OWQ4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_SX300.jpg",
+                "Rating": "7.6"
+            },
+            {
+                "Title": "Triangle of Sadness",
+                "Year": "2022",
+                "Runtime": "147 min",
+                "Actors": "Thobias Thorwid, Harris Dickinson, Charlbi Dean",
+                "Plot": "A fashion model celebrity couple join an eventful cruise for the super-rich.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BNDRiZjc0ZDMtMjhlYi00ZjAzLTg0MDQtZDI2NGEyYTBlN2M2XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_SX300.jpg",
+                "Rating": "7.5"
+            },
+            {
+                "Title": "Elvis",
+                "Year": "2022",
+                "Runtime": "159 min",
+                "Actors": "Tom Hanks, Austin Butler, Olivia DeJonge",
+                "Plot": "The life of American music icon Elvis Presley, from his childhood to becoming a rock and movie star in the 1950s while maintaining a complex relationship with his manager, Colonel Tom Parker.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_SX300.jpg",
+                "Rating": "7.4"
+            },
+            {
+                "Title": "All Quiet on the Western Front",
+                "Year": "2022",
+                "Runtime": "148 min",
+                "Actors": "Felix Kammerer, Albrecht Schuch, Aaron Hilmer",
+                "Plot": "The story follows teenagers Paul Baumer and his friends Albert and Muller, who voluntarily enlist in the German army, riding a wave of patriotic fervour that quickly dissipates once they face the brutal realities of life on the front. Paul's preconceptions about the enemy and the rights and wrongs of the conflict soon crumble. However, amid the countdown to Armistice, Paul must carry on fighting until the end, with no purpose other than to satisfy the top brass' desire to end the war on a German offensive.",
+                "Poster": "https://m.media-amazon.com/images/M/MV5BYTE1MmZiMWYtYTFmZi00YjA3LWI2ODgtMWFlNWYxZjdmNGE3XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SX300.jpg",
+                "Rating": "7.8"
+            }
+        ]
+    },
+    {
+        "genre": "Comedy",
+        "titles": [
+            {"Title": "Tusk", "Year": "2014", "Runtime": "102 min", "Actors": "Justin Long, Michael Parks, Haley Joel Osment", "Plot": "When podcaster Wallace travels to Canada to interview someone, he winds up meeting a strange man named Howe who has many stories to tell about his past life during his interview. Wallace wakes up the next day finding out Howe isn't the person he thought he was. Howe has plans to surgically and mentally turn Wallace into a walrus.", "Poster": "https://m.media-amazon.com/images/M/MV5BNmQyMmUzMmYtMTA4OS00ZmRjLWE0NWYtNjc0ZGM0N2E4YzQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg", "Rating": "5.3"},
+{"Title": "Puss in Boots: The Last Wish", "Year": "2022", "Runtime": "102 min", "Actors": "Antonio Banderas, Salma Hayek, Harvey Guillén", "Plot": "Puss in Boots discovers that his passion for adventure has taken its toll: he has burned through eight of his nine lives. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.", "Poster": "https://m.media-amazon.com/images/M/MV5BNjMyMDBjMGUtNDUzZi00N2MwLTg1MjItZTk2MDE1OTZmNTYxXkEyXkFqcGdeQXVyMTQ5NjA0NDM0._V1_SX300.jpg", "Rating": "7.8"},
+{"Title": "Hustle", "Year": "2022", "Runtime": "117 min", "Actors": "Adam Sandler, Queen Latifah, Juancho Hernangomez", "Plot": "After being fired, pro basketball scout, Stanley Beren, is excited, for the first time in a very long while, when he serendipitously discovers Spanish amateur baller, Bo Cruz, playing in a park outside Madrid. Fueled with new-found purpose, Stanley makes it his mission to groom Bo for the NBA as he believes they both can make it.", "Poster": "https://m.media-amazon.com/images/M/MV5BYjdhYTE3NjMtZjI3OC00NzVlLWFiNTUtNzQ3NDNiNTI3NDg4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg", "Rating": "7.3"},
+{"Title": "Shazam! Fury of the Gods", "Year": "2023", "Runtime": "130 min", "Actors": "Helen Mirren, Zachary Levi, Lucy Liu", "Plot": "The film continues the story of teenage Billy Batson who, upon reciting the magic word 'SHAZAM!' is transformed into his adult Super Hero alter ego, Shazam.", "Poster": "https://m.media-amazon.com/images/M/MV5BMzk4NzI3M2YtNTU0Zi00NDU3LTgxYTUtOWY0NmZiMzU5MzlhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg", "Rating": "N/A"},
+{"Title": "Wonka", "Year": "2023", "Runtime": "1 min", "Actors": "Timothée Chalamet, Olivia Colman, Sally Hawkins", "Plot": "The story will focus specifically on a young Willy Wonka and how he met the Oompa-Loompas on one of his earliest adventures.", "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0NjQ1ZmItNDE0Ni00MDQ5LTkxZDItYmU3MTY0ZjhiNjNlXkEyXkFqcGdeQXVyMTQ4MTE5NTE1._V1_SX300.jpg", "Rating": "N/A"},
+{"Title": "The Addams Family", "Year": "1991", "Runtime": "99 min", "Actors": "Anjelica Huston, Raul Julia, Christopher Lloyd", "Plot": "The Addams Family steps out of Charles Addams' cartoons. They live with all of the trappings of the macabre (including a detached hand for a servant) and are quite wealthy. Added to this mix is a crooked accountant and his loan shark and a plot to slip the shark's son into the family as their long-lost Uncle Fester. Can the false Fester find his way into the vault before he is discovered?", "Poster": "https://m.media-amazon.com/images/M/MV5BMmJhZTlhNzUtNzAwZC00YjQ2LTkxOGEtNzBmOWVkMmUxNTBiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SX300.jpg", "Rating": "6.9"},
+{"Title": "Turning Red", "Year": "2022", "Runtime": "100 min", "Actors": "Rosalie Chiang, Sandra Oh, Ava Morse", "Plot": "Mei Lee (voice of Rosalie Chiang) is a confident, dorky 13-year-old torn between staying her mother's dutiful daughter and the chaos of adolescence. Her protective, if not slightly overbearing mother, Ming (voice of Sandra Oh), is never far from her daughter - an unfortunate reality for the teenager. And as if changes to her interests, relationships and body weren't enough, whenever she gets too excited (which is practically ALWAYS), she 'poofs' into a giant red panda.", "Poster": "https://m.media-amazon.com/images/M/MV5BOWYxZDMxYWUtNjNiZC00MDE1LWI2Y2QtNWZhNDAyMGY5ZjVhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg", "Rating": "7.0"},
+{"Title": "The Man from U.N.C.L.E.", "Year": "2015", "Runtime": "116 min", "Actors": "Henry Cavill, Armie Hammer, Alicia Vikander", "Plot": "In the 1960s with the Cold War in play, CIA agent Napoleon Solo successfully helps Gaby Teller defect to West Germany despite the intimidating opposition of KGB agent Illya Kuryakin. Later, all three unexpectedly find themselves working together in a joint mission to stop a private criminal organization from using Gaby's father's scientific expertise to construct their own nuclear bomb. Through clenched teeth and stylish poise, all three must find a way to cooperate for the sake of world peace, even as they each pursue their own agendas.", "Poster": "https://m.media-amazon.com/images/M/MV5BOTZmMWFhYmQtZDE5YS00YzBlLWJlOGEtYzAwNGU1YzVlYjZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg", "Rating": "7.2"},
+{"Title": "Jojo Rabbit", "Year": "2019", "Runtime": "108 min", "Actors": "Roman Griffin Davis, Thomasin McKenzie, Scarlett Johansson", "Plot": "A World War II satire that follows a lonely German boy named Jojo (Roman Griffin Davis) whose world view is turned upside down when he discovers his single mother (Scarlett Johansson) is hiding a young Jewish girl (Thomasin McKenzie) in their attic. Aided only by his idiotic imaginary friend, Adolf Hitler (Taika Waititi), Jojo must confront his blind nationalism.", "Poster": "https://m.media-amazon.com/images/M/MV5BZjU0Yzk2MzEtMjAzYy00MzY0LTg2YmItM2RkNzdkY2ZhN2JkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg", "Rating": "7.9"},
+{"Title": "American Pie", "Year": "1999", "Runtime": "95 min", "Actors": "Jason Biggs, Chris Klein, Thomas Ian Nicholas", "Plot": "Jim, Oz, Finch and Kevin are four friends who make a pact that before they graduate they will all lose their virginity. The hard job now is how to reach that goal by prom night. Whilst Oz begins singing to grab attention and Kevin tries to persuade his girlfriend, Finch tries any easy route of spreading rumors and Jim fails miserably. Whether it is being caught on top of a pie or on the Internet, Jim always ends up with his trusty sex advice from his father. Will they achieve their goal of getting laid by prom night? Or will they learn something much different?", "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3ODY5ODI1NF5BMl5BanBnXkFtZTgwMTkxNTYxMTE@._V1_SX300.jpg", "Rating": "7.0"},
+{"Title": "Encanto", "Year": "2021", "Runtime": "102 min", "Actors": "Stephanie Beatriz, María Cecilia Botero, John Leguizamo", "Plot": "Encanto tells the tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal-every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.", "Poster": "https://m.media-amazon.com/images/M/MV5BNjE5NzA4ZDctOTJkZi00NzM0LTkwOTYtMDI4MmNkMzIxODhkXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg", "Rating": "7.2"},
+{"Title": "You People", "Year": "2023", "Runtime": "117 min", "Actors": "Jonah Hill, Lauren London, Eddie Murphy", "Plot": "Follows a new couple and their families, who find themselves examining modern love and family dynamics amidst clashing cultures, societal expectations and generational differences.", "Poster": "https://m.media-amazon.com/images/M/MV5BN2Q3MTA3NGItZDQ0MS00ZTE0LWFmZDMtZTcwNDk0MDA4YmMwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg", "Rating": "N/A"},
+{"Title": "The Bad Guys", "Year": "2022", "Runtime": "100 min", "Actors": "Sam Rockwell, Marc Maron, Awkwafina", "Plot": "After a lifetime of legendary heists, notorious criminals Mr. Wolf, Mr. Snake, Mr. Piranha, Mr. Shark and Ms. Tarantula are finally caught. To avoid a prison sentence, the animal outlaws must pull off their most challenging con yet -- becoming model citizens. Under the tutelage of their mentor, Professor Marmalade, the dubious gang sets out to fool the world that they're turning good.", "Poster": "https://m.media-amazon.com/images/M/MV5BMDhkYmU0MzctMWEzNy00ODg1LWI3ZjAtMGZlZjkzNWVmMzVjXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX300.jpg", "Rating": "6.8"},
+{"Title": "Matilda", "Year": "1996", "Runtime": "102 min", "Actors": "Danny DeVito, Rhea Perlman, Mara Wilson", "Plot": "Matilda Wormwood is an exquisite and intelligent little girl. Unfortunately, Matilda is misunderstood by her family because she is very different from their ways of life. As time passes, Matilda finally starts school that has a kindly teacher, loyal friends and a sadistic principal. As she gets fed up with the constant cruelty, Matilda begins to realize that she has a gift of telekinetic powers. After some days of practice, Matilda suddenly turns the tables to stand up to her parents and outwit the principal.", "Poster": "https://m.media-amazon.com/images/M/MV5BMWE2YTBhYzItZDAxZS00Mjc3LWIxNmYtMzljZjIxMGE1NmY2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg", "Rating": "6.9"},
+{"Title": "Theater Camp", "Year": "2023", "Runtime": "94 min", "Actors": "Amy Sedaris, Ayo Edebiri, Ben Platt", "Plot": "The eccentric staff of a rundown theater camp in upstate New York, as they band together with the beloved founder's bro-y son to keep the camp afloat, when she falls into a coma right before the summer session is set to begin.", "Poster": "https://m.media-amazon.com/images/M/MV5BMzkzMmM3MmEtZGQ1ZS00ZmViLWE2MTAtNDlhY2RiZWUwOWY1XkEyXkFqcGdeQXVyMTE1OTYyNDgx._V1_SX300.jpg", "Rating": "N/A"},
+{"Title": "The Goonies", "Year": "1985", "Runtime": "114 min", "Actors": "Sean Astin, Josh Brolin, Jeff Cohen", "Plot": "Mikey and his friends have always wanted to go on an adventure. One night they are all in Mikey's attic and Mikey stumbles across an old map. Mikey has always wanted to know if One-eyed Willy ever was a real person and now he might. They set off and later realize that they have to go through the evil Mama Fratelli's restaurant to get to a secret passage to the caves. As they try to get into the caves Mama Fratelli catches Chunk and he is left behind. He then meets Sloth one of Mama Fratelli's sons with a messed up face. He befriends Sloth. Meanwhile Mama Fratelli and her sons are trying to get to the treasure too. Will the kids make it there before Mama Fratelli does? Will Chuck ever get out of her basement?", "Poster": "https://m.media-amazon.com/images/M/MV5BODRlMjRkZGEtZWM2Zi00ZjYxLWE0MWUtMmM1YWM2NzZlOTE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg", "Rating": "7.7"},
+{"Title": "Blended", "Year": "2014", "Runtime": "117 min", "Actors": "Adam Sandler, Drew Barrymore, Wendi McLendon-Covey", "Plot": "After a blind date gone horribly wrong, Jim and Lauren agree they never, ever want to see each other again. Well, that's all about to change when the two find themselves and their respective families (including children) all stuck together in one suite at an African Safari vacation spot.", "Poster": "https://m.media-amazon.com/images/M/MV5BNzc2ODI5NjAyMl5BMl5BanBnXkFtZTgwMzIyOTE4MDE@._V1_SX300.jpg", "Rating": "6.5"},
+{"Title": "Grease", "Year": "1978", "Runtime": "110 min", "Actors": "John Travolta, Olivia Newton-John, Stockard Channing", "Plot": "A musical about teens in love in the 1950s. It's California 1958 and greaser Danny Zuko (John Travolta) and Australian Sandy Olsson (Olivia Newton-John) are in love. They spend time at the beach, and when they go back to school, what neither of them knows is that they both now attend Rydell High. Danny's the leader of the T-Birds, a group of black leather jacket-wearing greasers while Sandy hangs with the Pink Ladies, a group of pink-wearing girls led by Rizzo (Stockard Channing). When they clash at Rydell's first pep rally, Danny isn't the same Danny from the beach. They try to be like each other so they can be together.", "Poster": "https://m.media-amazon.com/images/M/MV5BZmUyMDEyOTgtZmUwOS00NTdkLThlNzctNTM1ODQ4M2VhMjdhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg", "Rating": "7.2"},
+{"Title": "Shortbus", "Year": "2006", "Runtime": "101 min", "Actors": "Sook-Yin Lee, Peter Stickles, PJ DeBoy", "Plot": "Numerous New York City dwellers come to the exclusive club Shortbus to work out problems in their sexual relationships. Rob and Sophia are a happily married couple, except for the fact that she has never experienced sexual climax. This irony follows her to work because she is a couples counselor who frequently has to deal with the sexual issues other couples have. Two of her patients are Jamie and James, a gay couple who have been monogamous for five years and counting. James wants to bring other men in to the relationship, and his own history with depression may hint at an ulterior motive. Ceth (pronounced Seth) may be the perfect addition to their family, but Caleb, a voyeur from across the street, may have his own ideas about that. Sophia visits Severin, a dominatrix with secrets of her own to reveal.", "Poster": "https://m.media-amazon.com/images/M/MV5BZjkwMTk1OWMtZjg4ZC00YWVlLTkyZGItZTU4ZjQ5NDM0M2NkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg", "Rating": "6.4"},
+{"Title": "Free Guy", "Year": "2021", "Runtime": "115 min", "Actors": "Ryan Reynolds, Jodie Comer, Taika Waititi", "Plot": "In the extremely popular video game, Free City, a NPC named Guy learns the true nature of his existence when he meets the girl of his dreams, a human player. This player's interactions with Guy has massive affects on him, the game, and real world as they play it.", "Poster": "https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg", "Rating": "7.1"}
+        ]
+    },
+    {
+        "genre": "Horror",
+        "titles": [
+            {"Title": "Bodies Bodies Bodies", "Year": "2022", "Runtime": "94 min", "Actors": "Amandla Stenberg, Maria Bakalova, Rachel Sennott", "Plot": "When a group of rich 20-somethings plan a hurricane party at a remote family mansion, a party game turns deadly in this fresh and funny look at backstabbing, fake friends, and one party gone very, very wrong.", "Poster": "https://m.media-amazon.com/images/M/MV5BYTA2ODg5ZjgtOTU2My00MzFkLWI0NzMtZmQ5MmRhMWU1NzhlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX300.jpg", "Rating": "6.3"},
+{"Title": "The Conjuring", "Year": "2013", "Runtime": "112 min", "Actors": "Patrick Wilson, Vera Farmiga, Ron Livingston", "Plot": "In 1971, Carolyn and Roger Perron move their family into a dilapidated Rhode Island farm house and soon strange things start happening around it with escalating nightmarish terror. In desperation, Carolyn contacts the noted paranormal investigators, Ed and Lorraine Warren, to examine the house. What the Warrens discover is a whole area steeped in a satanic haunting that is now targeting the Perron family wherever they go. To stop this evil, the Warrens will have to call upon all their skills and spiritual strength to defeat this spectral menace at its source that threatens to destroy everyone involved.", "Poster": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_SX300.jpg", "Rating": "7.5"},
+{"Title": "Winnie-the-Pooh: Blood and Honey", "Year": "2023", "Runtime": "100 min", "Actors": "Natasha Tosini, Amber Doig-Thorne, Craig David Dowsett", "Plot": "It follows Pooh and Piglet as they go on a rampage after Christopher Robin abandons them for college.", "Poster": "https://m.media-amazon.com/images/M/MV5BZDUwNDY1M2QtYmI2Zi00NmFmLTkzNzMtOTg4ODgxYmY5N2I2XkEyXkFqcGdeQXVyOTQzOTE5NTY@._V1_SX300.jpg", "Rating": "N/A"},
+{"Title": "Get Out", "Year": "2017", "Runtime": "104 min", "Actors": "Daniel Kaluuya, Allison Williams, Bradley Whitford", "Plot": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.", "Poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_SX300.jpg", "Rating": "7.7"},
+{"Title": "The Witch", "Year": "2015", "Runtime": "92 min", "Actors": "Anya Taylor-Joy, Ralph Ineson, Kate Dickie", "Plot": "New England, 1630: William and Katherine try to lead a devout Christian life, homesteading on the edge of an impassible wilderness, with five children. When their newborn son mysteriously vanishes and their crops fail, the family begins to turn on one another. 'The Witch' is a chilling portrait of a family unraveling within their own sins, leaving them prey for an inconceivable evil.", "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_SX300.jpg", "Rating": "6.9"},
+{"Title": "Last Night in Soho", "Year": "2021", "Runtime": "116 min", "Actors": "Thomasin McKenzie, Anya Taylor-Joy, Matt Smith", "Plot": "In acclaimed director Edgar Wright's psychological thriller, Eloise, an aspiring fashion designer, is mysteriously able to enter the 1960s where she encounters a dazzling wannabe singer, Sandie. But the glamour is not all it appears to be and the dreams of the past start to crack and splinter into something far darker.", "Poster": "https://m.media-amazon.com/images/M/MV5BZjgwZDIwY2MtNGZlNy00NGRlLWFmNTgtOTBkZThjMDUwMGJhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg", "Rating": "7.1"},
+{"Title": "Candy Land", "Year": "2022", "Runtime": "93 min", "Actors": "Eden Brolin, Olivia Luccardi, William Baldwin", "Plot": "A seemingly naive and devout young woman finds her way in the underground world of truck stop sex workers a.k.a. 'lot lizards.'", "Poster": "https://m.media-amazon.com/images/M/MV5BM2Y3ODZiNjAtYTdmYS00YWE2LWFmNmMtMTdlNjYyMWQyZTI3XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg", "Rating": "6.8"},
+{"Title": "M3GAN", "Year": "2022", "Runtime": "102 min", "Actors": "Allison Williams, Violet McGraw, Ronny Chieng", "Plot": "A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.", "Poster": "https://m.media-amazon.com/images/M/MV5BMDk4MTdhYzEtODk3OS00ZDBjLWFhNTQtMDI2ODdjNzQzZTA3XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SX300.jpg", "Rating": "6.5"},
+{"Title": "A Quiet Place", "Year": "2018", "Runtime": "90 min", "Actors": "Emily Blunt, John Krasinski, Millicent Simmonds", "Plot": "In a devastated Earth overrun by invincible predators of a possible extraterrestrial origin, the Abbotts find themselves struggling to survive in the isolation of upstate New York, defined by a new era of utter silence. Indeed, as this new type of invader is attracted to noise, even the slightest of sounds can be deadly; however, it's been already twelve months since the powerful monsters' first sightings, and this resilient family still stands strong. Of course, learning the rules of survival in this muted dystopia is essential; nevertheless, now, of all times, an otherwise joyous event puts in jeopardy the already fragile stability. And now, more than ever, the Abbotts must not make a sound.", "Poster": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_SX300.jpg", "Rating": "7.5"},
+{"Title": "It", "Year": "2017", "Runtime": "135 min", "Actors": "Bill Skarsgård, Jaeden Martell, Finn Wolfhard", "Plot": "In the Town of Derry, the local kids are disappearing one by one. In a place known as 'The Barrens', a group of seven kids are united by their horrifying and strange encounters with an evil clown and their determination to kill It.", "Poster": "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg", "Rating": "7.3"},
+{"Title": "Prey", "Year": "2022", "Runtime": "100 min", "Actors": "Amber Midthunder, Dakota Beavers, Dane DiLiegro", "Plot": "Naru, a skilled warrior of the Comanche Nation, fights to protect her tribe against one of the first highly-evolved Predators to land on Earth.", "Poster": "https://m.media-amazon.com/images/M/MV5BMDBlMDYxMDktOTUxMS00MjcxLWE2YjQtNjNhMjNmN2Y3ZDA1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX300.jpg", "Rating": "7.2"},
+{"Title": "12 Feet Deep", "Year": "2017", "Runtime": "85 min", "Actors": "Nora-Jane Noone, Alexandra Park, Diane Farr", "Plot": "Two sisters are trapped under the fiberglass cover of an Olympic sized public pool and must brave the cold and each other to survive the harrowing night.", "Poster": "https://m.media-amazon.com/images/M/MV5BOWM5ZWFmZTItMGVhMC00MGQwLTgzYzktOTIxMGY4YWVkZjYxXkEyXkFqcGdeQXVyMzk3OTY0OA@@._V1_SX300.jpg", "Rating": "5.3"},
+{"Title": "The Shining", "Year": "1980", "Runtime": "146 min", "Actors": "Jack Nicholson, Shelley Duvall, Danny Lloyd", "Plot": "Haunted by a persistent writer's block, the aspiring author and recovering alcoholic, Jack Torrance, drags his wife, Wendy, and his gifted son, Danny, up snow-capped Colorado's secluded Overlook Hotel after taking up a job as an off-season caretaker. As the cavernous hotel shuts down for the season, the manager gives Jack a grand tour, and the facility's chef, the ageing Mr Hallorann, has a fascinating chat with Danny about a rare psychic gift called 'The Shining', making sure to warn him about the hotel's abandoned rooms, and, in particular, the off-limits Room 237. However, instead of overcoming the dismal creative rut, little by little, Jack starts losing his mind, trapped in an unforgiving environment of seemingly endless snowstorms, and a gargantuan silent prison riddled with strange occurrences and eerie visions. Now, the incessant voices inside Jack's head demand sacrifice. Is Jack capable of murder?", "Poster": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg", "Rating": "8.4"},
+{"Title": "Scream", "Year": "2022", "Runtime": "114 min", "Actors": "Neve Campbell, Courteney Cox, David Arquette", "Plot": "Like the original movie 25 years ago, a cute teenage girl is at home alone when the phone rings. A man wants to play a game with her. With the threat of killing her best friend, Tara's forced to play along. She barely survives the ghost face masked intruder's stabbing. Her 5 year older sister, Sam(antha), who left home at 18 due to mental problems, Sam's boyfriend and Tara's high school friends visit her at the hospital. Later on in a bar, a guy provokes the friends and is later attacked outside in the parking lot by Ghostface. Sam receives a call from him at the hospital and then he unsuccessfully attacks her. She later reveals family secrets to her sister. Sam contacts one of the original victims, Dewey, for help. He warns two other original victims, Sidney Prescott and Gale Weathers, about Ghostface being back. Who is Ghostface? How many more must die?", "Poster": "https://m.media-amazon.com/images/M/MV5BYjExYTcwYmYtMWY2Zi00MGJlLTk3YjUtZTU1Zjg4MDc0Y2FjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg", "Rating": "6.3"},
+{"Title": "American Psycho", "Year": "2000", "Runtime": "102 min", "Actors": "Christian Bale, Justin Theroux, Josh Lucas", "Plot": "It's the late 1980s. Twenty-seven year old Wall Streeter Patrick Bateman travels among a closed network of the proverbial beautiful people, that closed network in only they able to allow others like themselves in in a feeling of superiority. Patrick has a routinized morning regimen to maintain his appearance of attractiveness and fitness. He, like those in his network, are vain, narcissistic, egomaniacal and competitive, always having to one up everyone else in that presentation of oneself, but he, unlike the others, realizes that, for himself, all of these are masks to hide what is truly underneath, someone/something inhuman in nature. In other words, he is comprised of a shell resembling a human that contains only greed and disgust, greed in wanting what others may have, and disgust for those who do not meet his expectations and for himself in not being the first or the best. That disgust ends up manifesting itself in wanting to rid the world of those people, he not seeing them as people but only of those characteristics he wants to rid.", "Poster": "https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg", "Rating": "7.6"},
+{"Title": "The Cabin in the Woods", "Year": "2011", "Runtime": "95 min", "Actors": "Kristen Connolly, Chris Hemsworth, Anna Hutchison", "Plot": "Five teenagers head off for a weekend at a secluded cabin in the woods. They arrive to find they are quite isolated with no means of communicating with the outside world. When the cellar door flings itself open, they of course go down to investigate. They find an odd assortment of relics and curios, but when one of the women, Dana, reads from a book, she awakens a family of deadly zombie killers. However, there's far more going on than meets the eye.", "Poster": "https://m.media-amazon.com/images/M/MV5BNTUxNzYyMjg2N15BMl5BanBnXkFtZTcwMTExNzExNw@@._V1_SX300.jpg", "Rating": "7.0"},
+{"Title": "Split", "Year": "2016", "Runtime": "117 min", "Actors": "James McAvoy, Anya Taylor-Joy, Haley Lu Richardson", "Plot": "Though Kevin (James McAvoy) has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher (Betty Buckley), there remains one still submerged who is set to materialize and dominate all of the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him -- as well as everyone around him -- as the walls between his compartments shatter.", "Poster": "https://m.media-amazon.com/images/M/MV5BZTJiNGM2NjItNDRiYy00ZjY0LTgwNTItZDBmZGRlODQ4YThkL2ltYWdlXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SX300.jpg", "Rating": "7.3"},
+{"Title": "The Menu", "Year": "2022", "Runtime": "107 min", "Actors": "Ralph Fiennes, Anya Taylor-Joy, Nicholas Hoult", "Plot": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.", "Poster": "https://m.media-amazon.com/images/M/MV5BMzdjNjI5MmYtODhiNS00NTcyLWEzZmUtYzVmODM5YzExNDE3XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_SX300.jpg", "Rating": "7.2"},
+{"Title": "Possessor", "Year": "2020", "Runtime": "103 min", "Actors": "Andrea Riseborough, Christopher Abbott, Jennifer Jason Leigh", "Plot": "Tasya Vos is a corporate agent who uses brain-implant technology to inhabit other people's bodies, driving them to commit assassinations for the benefit of the company. While she has a special gift for the work, her experiences on these jobs have caused a dramatic change in her, and in her own life she struggles to suppress violent memories and urges. As her mental strain intensifies, she begins to lose control, and soon she finds herself trapped in the mind of a man whose identity threatens to destroy her own.", "Poster": "https://m.media-amazon.com/images/M/MV5BMjBlYTlhMDctNTQ3ZC00MjM4LWIxNjctNDI4NjA3NDc3Yzc5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg", "Rating": "6.5"},
+{"Title": "Alien", "Year": "1979", "Runtime": "117 min", "Actors": "Sigourney Weaver, Tom Skerritt, John Hurt", "Plot": "In the distant future, the crew of the commercial spaceship Nostromo are on their way home when they pick up a distress call from a distant moon. The crew are under obligation to investigate and the spaceship descends on the moon afterwards. After a rough landing, three crew members leave the spaceship to explore the area on the moon. At the same time as they discover a hive colony of some unknown creature, the ship's computer deciphers the message to be a warning, not a distress call. When one of the eggs is disturbed, the crew realizes that they are not alone on the spaceship and they must deal with the consequences.", "Poster": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg", "Rating": "8.5"}
+        ]
+    }
+] 

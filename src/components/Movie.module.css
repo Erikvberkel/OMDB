@@ -1,0 +1,15 @@
+.poster {
+    height: 15rem;
+    margin: 0 .25rem;
+}
+
+.poster img {
+    height: 15rem;
+    aspect-ratio: 6/9;
+}
+
+.poster img:hover {
+    height: 20rem;
+    transform: translateY(-2.5rem);
+    transition: all 200ms linear;
+}
